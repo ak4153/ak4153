@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ak4153
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning React, Node.js and TypeScript
 - 📫 How to reach me <a href="https://www.linkedin.com/in/alex-kreizelman-846178219/">LinkedIn</a>, <a href="https://akportfolio-78cdf.web.app/">Personal Website</a>
 
 <!---

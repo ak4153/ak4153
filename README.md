@@ -5,8 +5,8 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/alex-kreizelman-846178219/">LinkedIn</a>, <a href="https://akportfolio-78cdf.web.app/">Personal Website</a>
 
 - Latest Projects :<p></p>
-- Peanut - Typescript drag and drop Project Menager <a href="https://github.com/ak4153/Peanut">Source</a>, <a href="https://greasy-peanut.surge.sh/">Demo</a>
-- Reshumon - MERN CRUD app <a href="https://github.com/ak4153/ReshumonApp">Source</a>, <a href="https://crudotest.herokuapp.com/">Demo</a>
+- 🥜 Peanut - Typescript drag and drop Project Menager <a href="https://github.com/ak4153/Peanut">Source</a>, <a href="https://greasy-peanut.surge.sh/">Demo</a>
+- 📝 Reshumon - MERN CRUD app <a href="https://github.com/ak4153/ReshumonApp">Source</a>, <a href="https://crudotest.herokuapp.com/">Demo</a>
 
 
 <!---

@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ak4153
-- 📫 How to reach me <a href="https://www.linkedin.com/in/alex-kreizelman-846178219/">LinkedIn</a>
+
 
 
 <!---
